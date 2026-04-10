@@ -33,37 +33,48 @@ PhD in computational biology. Topics of interest: bioinformatics, NGS, data scie
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.76%20million%20lines%20of%20code-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-🌆 Daytime                1617 commits        ████████████░░░░░░░░░░░░░   47.12 % 
-🌃 Evening                1453 commits        ███████████░░░░░░░░░░░░░░   42.34 % 
+🌞 Morning                132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+🌆 Daytime                1619 commits        ████████████░░░░░░░░░░░░░   47.15 % 
+🌃 Evening                1453 commits        ███████████░░░░░░░░░░░░░░   42.31 % 
 🌙 Night                  230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   565 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Tuesday                  612 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Wednesday                589 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Thursday                 560 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Friday                   507 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Saturday                 339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Sunday                   260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Monday                   565 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Tuesday                  612 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Wednesday                589 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Thursday                 560 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Friday                   509 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Saturday                 339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Sunday                   260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Europe/Kaliningrad
+
 💬 Programming Languages: 
 No Activity Tracked This Week
 ```
 
+**I Mostly Code in Jupyter Notebook** 
 
+```text
+Jupyter Notebook         38 repos            █████████████████░░░░░░░░   69.09 % 
+Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Nextflow                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+```
+
+
+
+
+ Last Updated on 10/04/2026 14:24:21 UTC
 <!--END_SECTION:waka-->
