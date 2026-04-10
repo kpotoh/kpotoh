@@ -33,9 +33,10 @@ PhD at ...
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
+## Favourite projects
+
+1. [NeMu-pipeline](https://github.com/mitoclub/NeMu-pipeline) for mutational spectra estimation based on Genbank sequences.
+2. RNA-viruses mutational spectra comparative analysis with the focus on SARS-CoV-2.
+3. *De novo* mutations estimation for *Common carp* family based on whole-genome sequencing data.
