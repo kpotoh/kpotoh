@@ -33,6 +33,39 @@ PhD at ...
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.76%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+🌆 Daytime                1617 commits        ████████████░░░░░░░░░░░░░   47.12 % 
+🌃 Evening                1453 commits        ███████████░░░░░░░░░░░░░░   42.34 % 
+🌙 Night                  230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   565 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Tuesday                  612 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Wednesday                589 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Thursday                 560 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Friday                   507 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Saturday                 339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Sunday                   260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
 <!--END_SECTION:waka-->
 
 ## Favourite projects
