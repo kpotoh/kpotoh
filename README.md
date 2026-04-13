@@ -6,7 +6,15 @@
 
 Python developer at bioinformatics from Kaliningrad, Russia.
 
-PhD in computational biology. Topics of interest: bioinformatics, NGS, data science, pipelines development, cybernetics, phylogenetics.
+PhD in computational biology. Topics of interest:
+
+![evolution](https://img.shields.io/badge/evolution-green)
+![bioinformatics](https://img.shields.io/badge/bioinformatics-blue)
+![NGS](https://img.shields.io/badge/NGS-lightgreen)
+![phylogenetics](https://img.shields.io/badge/phylogenetics-brown)
+![pipelines](https://img.shields.io/badge/pipelines-orange)
+![data science](https://img.shields.io/badge/data%20science-purple)
+![cybernetics](https://img.shields.io/badge/cybernetics-cyan)
 
 ## Setup
 

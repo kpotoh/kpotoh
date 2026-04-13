@@ -3,7 +3,7 @@ name: Wakatime Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 0 * * *' # Daily at 12:15 AM UTC
+    - cron: '15 0 * * */2' # Every 2nd day-of-week at 12:15 AM UTC
 
 jobs:
   update-readme:
