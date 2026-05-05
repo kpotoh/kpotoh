@@ -57,9 +57,7 @@ PhD in computational biology. Topics of interest:
 🕑︎ Time Zone: Europe/Kaliningrad
 
 💬 Programming Languages: 
-Python                   2 hrs 50 mins       ████████████████████████░   97.24 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Python                   25 mins             █████████████████████████   100.00 % 
 ```
 
 
