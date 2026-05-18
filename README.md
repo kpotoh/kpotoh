@@ -41,24 +41,5 @@ PhD in computational biology. Topics of interest:
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                133 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-🌆 Daytime                1626 commits        ████████████░░░░░░░░░░░░░   47.23 % 
-🌃 Evening                1454 commits        ███████████░░░░░░░░░░░░░░   42.23 % 
-🌙 Night                  230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Kaliningrad
-
-💬 Programming Languages: 
-Python                   9 mins              █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
