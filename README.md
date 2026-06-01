@@ -44,10 +44,10 @@ PhD in computational biology. Topics of interest:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-🌆 Daytime                1628 commits        ████████████░░░░░░░░░░░░░   47.22 % 
-🌃 Evening                1455 commits        ███████████░░░░░░░░░░░░░░   42.20 % 
-🌙 Night                  230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+🌞 Morning                135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+🌆 Daytime                1636 commits        ████████████░░░░░░░░░░░░░   47.34 % 
+🌃 Evening                1455 commits        ███████████░░░░░░░░░░░░░░   42.10 % 
+🌙 Night                  230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 ```
 
 
@@ -57,8 +57,11 @@ PhD in computational biology. Topics of interest:
 🕑︎ Time Zone: Europe/Kaliningrad
 
 💬 Programming Languages: 
-Python                   26 mins             ██████████████████████░░░   86.67 % 
-CSV                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Python                   5 hrs 57 mins       █████████████████████░░░░   85.42 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+CSV                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
