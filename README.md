@@ -1,16 +1,16 @@
 # 👋 Hey there, I'm Bogdan!
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/bogdan-efimenko/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](https://scholar.google.com/citations?user=Rs43T_oAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-%234ea94b.svg?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7635-3329)
 
 Python developer at bioinformatics from Kaliningrad, Russia.
 
 PhD in computational biology. Topics of interest:
 
-![evolution](https://img.shields.io/badge/evolution-green)
 ![bioinformatics](https://img.shields.io/badge/bioinformatics-blue)
 ![NGS](https://img.shields.io/badge/NGS-lightgreen)
+![evolution](https://img.shields.io/badge/evolution-green)
 ![phylogenetics](https://img.shields.io/badge/phylogenetics-brown)
 ![pipelines](https://img.shields.io/badge/pipelines-orange)
 ![data science](https://img.shields.io/badge/data%20science-purple)
