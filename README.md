@@ -44,10 +44,10 @@ PhD in computational biology. Topics of interest:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                157 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-🌆 Daytime                1797 commits        ████████████░░░░░░░░░░░░░   47.91 % 
-🌃 Evening                1562 commits        ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌙 Night                  235 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+🌞 Morning                181 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+🌆 Daytime                1963 commits        ████████████░░░░░░░░░░░░░   48.33 % 
+🌃 Evening                1676 commits        ██████████░░░░░░░░░░░░░░░   41.26 % 
+🌙 Night                  242 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 ```
 
 
@@ -57,11 +57,34 @@ PhD in computational biology. Topics of interest:
 🕑︎ Time Zone: Europe/Kaliningrad
 
 💬 Programming Languages: 
-Python                   3 hrs 40 mins       ██████████████████░░░░░░░   71.52 % 
-Nextflow                 43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Python                   3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
+YAML                     1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Markdown                 1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+CSV                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 32 mins (41.19%)
+
+✍️ 3,621 lines written by AI, 2,780 lines written by hand (56.57% AI-written)
+
+🔤 193,767 Input Tokens, 3,603 Output Tokens
+
+💵 $0.64 Estimated AI Cost This Week
+
+🧠 18 AI Sessions, 45 AI Prompts
+
+Composer                 2,853 lines         █████████████████████░░░░   82.22 % 
+Github-Copilot           617 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 56.57% of written lines came from AI
+📄 Detailed Prompter — average 641 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 58.05% of changed lines were hand-edited
 ```
 
 
