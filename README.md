@@ -44,10 +44,10 @@ PhD in computational biology. Topics of interest:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                181 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-🌆 Daytime                1963 commits        ████████████░░░░░░░░░░░░░   48.33 % 
-🌃 Evening                1676 commits        ██████████░░░░░░░░░░░░░░░   41.26 % 
-🌙 Night                  242 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+🌞 Morning                183 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+🌆 Daytime                1997 commits        ████████████░░░░░░░░░░░░░   48.41 % 
+🌃 Evening                1701 commits        ██████████░░░░░░░░░░░░░░░   41.24 % 
+🌙 Night                  244 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 
 
@@ -57,34 +57,34 @@ PhD in computational biology. Topics of interest:
 🕑︎ Time Zone: Europe/Kaliningrad
 
 💬 Programming Languages: 
-Python                   3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
-YAML                     1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-Markdown                 1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-CSV                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+YAML                     2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.07 % 
+Python                   2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.67 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+C++                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 32 mins (41.19%)
+⏱ AI Coding Time: 5 hrs 1 min (77.88%)
 
-✍️ 3,621 lines written by AI, 2,780 lines written by hand (56.57% AI-written)
+✍️ 5,180 lines written by AI, 18 lines written by hand (99.65% AI-written)
 
-🔤 193,767 Input Tokens, 3,603 Output Tokens
+🔤 42,280 Input Tokens, 42,280 Output Tokens
 
-💵 $0.64 Estimated AI Cost This Week
+💵 $0.76 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 45 AI Prompts
+🧠 16 AI Sessions, 61 AI Prompts
 
-Composer                 2,853 lines         █████████████████████░░░░   82.22 % 
-Github-Copilot           617 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Grok                     495 lines           ███████████████████░░░░░░   77.22 % 
+Composer                 146 lines           ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.57% of written lines came from AI
-📄 Detailed Prompter — average 641 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 58.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.65% of written lines came from AI
+📚 Verbose Prompter — average 2,995 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.8% of changed lines were hand-edited
 ```
 
 
